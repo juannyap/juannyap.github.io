@@ -46,9 +46,6 @@
 .linkedin span {
   background-color: #0976b4;
 }
-.bnc span {
-  background-color: #0976b4;
-}
 .facebook span {
   background-color: #3B5998;
 }
@@ -88,9 +85,6 @@
 .icon-button .icon-linkedin {
   color: #0976b4;
 }
-.icon-button .icon-bnc {
-  color: #0976b4;
-}
 .icon-button .icon-facebook {
   color: #3B5998;
 }
@@ -108,7 +102,6 @@
 }
 .icon-button:hover .icon-twitter,
 .icon-button:hover .icon-linkedin,
-.icon-button:hover .icon-bnc,
 .icon-button:hover .icon-facebook,
 .icon-button:hover .icon-rss,
 .icon-button:hover .icon-envelope,
