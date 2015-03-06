@@ -485,6 +485,9 @@ ul.icons-ul > li .icon-li {
 .icon-book:before {
   content: "\f02d";
 }
+.icon-bnc:before {
+  content: "\f02d";
+}
 .icon-bookmark:before {
   content: "\f02e";
 }
