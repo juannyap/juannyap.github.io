@@ -1067,6 +1067,16 @@
 		padding-top: 3em;
 	}
 
+	.portfolio-right {
+		margin-top: 40px;
+		/*text-align: left;*/
+	}
+
+	.portfolio-left {
+		margin-top: 40px;
+		/*text-align: right;*/
+	}
+
 	#logo {
 		position: absolute;
 		left: 1em;
