@@ -125,6 +125,20 @@
 		color: white;
 	}
 
+	.portfoliotop-toyshop {
+		background-color: #439cd1;
+		color: white;
+	}
+
+	.portfoliotop-climbme {
+		background-color: #54a856;
+		color: white;
+	}
+
+	.portfolio-back {
+		padding-top: 50px;
+	}
+
 	br.clear {
 		clear: both;
 	}
